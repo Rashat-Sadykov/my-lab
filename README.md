@@ -79,6 +79,6 @@
 <details>
   <summary><b>🖼️ Нажмите, чтобы посмотреть скриншоты настройки Kaspersky Security Center</b></summary>
   <div style="margin-top: 10px;">
-    <img src="ksc-antivirus-policies1-1.png" alt="Шаг 2" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="Metasploitable.png" style="max-width:100%; display:block; margin-bottom:10px;">
   </div>
 </details>
