@@ -56,8 +56,8 @@
 
 ## 🦠 2. Kaspersky Security Center
 
-### Кейс А: Centralized Administration of Anti-Virus Protection
-*Описание:* Развертывание и настройка серверов администрирования, создание и применение групповых политик безопасности и правил обновлений для хостов корпоративной сети.
+### Кейс А: Централизованное управление антивирусной защитой
+*Описание:* Развертывание и настройка серверов администрирования, создание и применение групповых политик безопасности.
 
 <details>
   <summary><b>🖼️ Нажмите, чтобы посмотреть скриншоты настройки Kaspersky Security Center</b></summary>
@@ -69,5 +69,16 @@
     <img src="ksc-antivirus-policies2-1.png" alt="Шаг 5-1" style="max-width:100%; display:block; margin-bottom:10px;">
     <img src="ksc-antivirus-policies3.png" alt="Шаг 6" style="max-width:100%; display:block; margin-bottom:10px;">
     <img src="ksc-antivirus-policies4.png" alt="Шаг 7" style="max-width:100%; display:block; margin-bottom:10px;">
+  </div>
+</details>
+
+## 3. Metasploitable
+
+*Описание:* Выявление уязвимостей, сканирование, диагностика SYN, FIN, Xmas, UDP.
+
+<details>
+  <summary><b>🖼️ Нажмите, чтобы посмотреть скриншоты настройки Kaspersky Security Center</b></summary>
+  <div style="margin-top: 10px;">
+    <img src="ksc-antivirus-policies1-1.png" alt="Шаг 2" style="max-width:100%; display:block; margin-bottom:10px;">
   </div>
 </details>
