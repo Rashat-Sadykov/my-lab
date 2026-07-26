@@ -11,19 +11,20 @@
 
 <details>
   <summary><b>🖼️ Нажмите, чтобы посмотреть скриншоты настройки (12 фото)</b></summary>
-
-  * ![Шаг 1](sns-autonomous-admin2.png)
-  * ![Шаг 2](sns-autonomous-admin2-1.png)
-  * ![Шаг 3](sns-autonomous-admin3.png)
-  * ![Шаг 4](sns-autonomous-admin3-1.png)
-  * ![Шаг 5](sns-autonomous-admin3-2.png)
-  * ![Шаг 6](sns-autonomous-admin3-3.png)
-  * ![Шаг 7](sns-autonomous-admin3-4.png)
-  * ![Шаг 8](sns-autonomous-admin3-5.png)
-  * ![Шаг 9](sns-autonomous-admin4.png)
-  * ![Шаг 10](sns-autonomous-admin4-1.png)
-  * ![Шаг 11](sns-autonomous-admin4-2.png)
-  * ![Шаг 12](sns-autonomous-admin4-3.png)
+  <div style="margin-top: 10px;">
+    <img src="sns-autonomous-admin2.png" alt="Шаг 1" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="sns-autonomous-admin2-1.png" alt="Шаг 2" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="sns-autonomous-admin3.png" alt="Шаг 3" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="sns-autonomous-admin3-1.png" alt="Шаг 4" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="sns-autonomous-admin3-2.png" alt="Шаг 5" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="sns-autonomous-admin3-3.png" alt="Шаг 6" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="sns-autonomous-admin3-4.png" alt="Шаг 7" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="sns-autonomous-admin3-5.png" alt="Шаг 8" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="sns-autonomous-admin4.png" alt="Шаг 9" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="sns-autonomous-admin4-1.png" alt="Шаг 10" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="sns-autonomous-admin4-2.png" alt="Шаг 11" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="sns-autonomous-admin4-3.png" alt="Шаг 12" style="max-width:100%; display:block; margin-bottom:10px;">
+  </div>
 </details>
 
 ### Кейс Б: Настройка и администрирование IDS/IPS системы
@@ -31,39 +32,42 @@
 
 <details>
   <summary><b>🖼️ Нажмите, чтобы посмотреть скриншоты настройки IDS/IPS</b></summary>
-
-  * ![Настройка правил и сигнатур](IDS_IPS.png)
+  <div style="margin-top: 10px;">
+    <img src="IDS_IPS.png" alt="Настройка правил и сигнатур" style="max-width:100%; display:block; margin-bottom:10px;">
+  </div>
 </details>
 
 ### Кейс В: Расследование инцидента внутренней информационной безопасности
-*Описание:* Фиксация и анализ инцидента (факт несанкционированного копирования/кражи конфиденциального файла сотрудника другим пользователем системы) через журнал audit-безопасности СЗИ.
+*Описание:* Фиксация и анализ инцидента (факт несанкционированного копирования/кражи конфиденциального файла сотрудника другим пользователем системы) через журнал аудит-безопасности СЗИ.
 
 <details>
   <summary><b>🖼️ Нажмите, чтобы посмотреть скриншоты расследования инцидента</b></summary>
-
-  * ![Шаг 1 — Обнаружение события в журнале](sns-incident-theft1.png)
-  * ![Шаг 2 — Обнаружение события в журнале](sns-incident-theft2.png)
-  * ![Шаг 3 — Обнаружение события в журнале](sns-incident-theft3.png)
-  * ![Шаг 4 — Анализ учетной записи нарушителя](sns-incident-theft4.png)
-  * ![Шаг 5 — Фиксация факта доступа к файлу](sns-incident-theft5.png)
-  * ![Шаг 6 — Заключение](sns-incident-theft.png)
+  <div style="margin-top: 10px;">
+    <img src="sns-incident-theft1.png" alt="Шаг 1" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="sns-incident-theft2.png" alt="Шаг 2" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="sns-incident-theft3.png" alt="Шаг 3" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="sns-incident-theft4.png" alt="Шаг 4" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="sns-incident-theft5.png" alt="Шаг 5" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="sns-incident-theft.png" alt="Шаг 6" style="max-width:100%; display:block; margin-bottom:10px;">
+  </div>
 </details>
 
 ---
 
 ## 🦠 2. Kaspersky Security Center
 
-### Кейс А: Централизованное администрирование антивирусной защиты
+### Кейс А: Centralized Administration of Anti-Virus Protection
 *Описание:* Развертывание и настройка серверов администрирования, создание и применение групповых политик безопасности и правил обновлений для хостов корпоративной сети.
 
 <details>
   <summary><b>🖼️ Нажмите, чтобы посмотреть скриншоты настройки Kaspersky Security Center</b></summary>
-
-  * ![Шаг 2 — Настройка защиты файловых угроз](ksc-antivirus-policies1-1.png)
-  * ![Шаг 3 — Настройка защиты файловых угроз](ksc-antivirus-policies1-2.png)
-  * ![Шаг 4 — Настройка защиты файловых угроз](ksc-antivirus-policies1-3.png)
-  * ![Шаг 5 — Настройка полной проверки](ksc-antivirus-policies2.png)
-  * ![Шаг 5 — Настройка полной проверки](ksc-antivirus-policies2-1.png)
-  * ![Шаг 6 — Установка пароля администратора](ksc-antivirus-policies3.png)
-  * ![Шаг 7 — Проверка](ksc-antivirus-policies4.png)
+  <div style="margin-top: 10px;">
+    <img src="ksc-antivirus-policies1-1.png" alt="Шаг 2" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="ksc-antivirus-policies1-2.png" alt="Шаг 3" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="ksc-antivirus-policies1-3.png" alt="Шаг 4" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="ksc-antivirus-policies2.png" alt="Шаг 5" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="ksc-antivirus-policies2-1.png" alt="Шаг 5-1" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="ksc-antivirus-policies3.png" alt="Шаг 6" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="ksc-antivirus-policies4.png" alt="Шаг 7" style="max-width:100%; display:block; margin-bottom:10px;">
+  </div>
 </details>
