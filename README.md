@@ -77,7 +77,7 @@
 *Описание:* Выявление уязвимостей, сканирование, диагностика SYN, FIN, Xmas, UDP.
 
 <details>
-  <summary><b>🖼️ Нажмите, чтобы посмотреть скриншоты настройки Kaspersky Security Center</b></summary>
+  <summary><b>🖼️ Нажмите, чтобы посмотреть скриншоты Metasploitable</b></summary>
   <div style="margin-top: 10px;">
     <img src="Metasploitable.png" style="max-width:100%; display:block; margin-bottom:10px;">
   </div>
