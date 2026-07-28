@@ -106,7 +106,7 @@
 <summary><b>📂 Нажмите, чтобы посмотреть скриншоты DCDiag</b></summary>
 <div style="margin-top: 10px;">
     <img src="DCdiag.png" alt="Сканирование DCDiag" style="max-width:100%; display:block; margin-bottom:10px;">
-    <img src="DCdiag1.png" alt="Сканирование DCDiag" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="Dcdiag1.png" alt="Сканирование DCDiag" style="max-width:100%; display:block; margin-bottom:10px;">
     <img src="DCdiagotchet.png" alt="Отчет DCDiag" style="max-width:100%; display:block; margin-bottom:10px;">
 </div>
 </details>
