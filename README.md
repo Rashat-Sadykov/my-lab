@@ -96,3 +96,16 @@
 </div>
 </details>
 
+#### 5. Аудит и сканирование инфраструктуры Active Directory
+*Описание:* Проверка контроллеров домена с помощью DCDiag, анализ безопасности через AD DCL Scanner, сбор данных и построение векторов атак в BloodHound, а также выгрузка финальных отчетов.
+
+<details>
+<summary><b>📂 Нажмите, чтобы посмотреть скриншоты аудита</b></summary>
+<div style="margin-top: 10px;">
+    <img src="ad-audit-dcdiag.png" alt="Шаг 1: Сканирование с помощью DCDiag" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="ad-audit-dclscanner.png" alt="Шаг 2: Сканирование с помощью AD DCL Scanner" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="ad-audit-bloodhound.png" alt="Шаг 3: Сбор информации утилитой BloodHound" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="ad-audit-reports.png" alt="Шаг 4: Отчеты" style="max-width:100%; display:block; margin-bottom:10px;">
+</div>
+</details>
+
