@@ -82,3 +82,17 @@
     <img src="Metasploitable.png" style="max-width:100%; display:block; margin-bottom:10px;">
   </div>
 </details>
+
+#### 4. Настройка Active Directory
+*Описание:* Создание пользователей и групп, добавление рабочих станций в домен, а также разграничение прав доступа в сетевой инфраструктуре.
+
+<details>
+<summary><b>📂 Нажмите, чтобы посмотреть скриншоты настройки</b></summary>
+<div style="margin-top: 10px;">
+    <img src="ad-create-users.png" alt="Шаг 1: Создание пользователей" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="ad-create-groups.png" alt="Шаг 2: Создание групп" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="ad-domain-join.png" alt="Шаг 3: Добавление в домен" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="ad-permissions.png" alt="Шаг 4: Разграничение прав" style="max-width:100%; display:block; margin-bottom:10px;">
+</div>
+</details>
+
