@@ -106,9 +106,9 @@
 <details>
 <summary><b>📂 Нажмите, чтобы посмотреть скриншоты DCDiag</b></summary>
 <div style="margin-top: 10px;">
-    <img src="dcdiag-scan.png" alt="Сканирование DCDiag" style="max-width:100%; display:block; margin-bottom:10px;">
-    <img src="dcdiag-scan.png" alt="Сканирование DCDiag" style="max-width:100%; display:block; margin-bottom:10px;">
-    <img src="dcdiag-report.png" alt="Отчет DCDiag" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="dcdiag.png" alt="Сканирование DCDiag" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="dcdiag1.png" alt="Сканирование DCDiag" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="DCdiagotchet.png" alt="Отчет DCDiag" style="max-width:100%; display:block; margin-bottom:10px;">
 </div>
 </details>
 
@@ -117,9 +117,9 @@
 <details>
 <summary><b>📂 Нажмите, чтобы посмотреть скриншоты AD DCL Scanner</b></summary>
 <div style="margin-top: 10px;">
-    <img src="dclscanner-scan.png" alt="Сканирование AD DCL Scanner" style="max-width:100%; display:block; margin-bottom:10px;">
-    <img src="dclscanner-report.png" alt="Отчет AD DCL Scanner" style="max-width:100%; display:block; margin-bottom:10px;">
-    <img src="dclscanner-report.png" alt="Отчет AD DCL Scanner" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="ADACL.png" alt="Сканирование AD DCL Scanner" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="ACLREPORT.png" alt="Отчет AD DCL Scanner" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="ACLOtchet.png" alt="Отчет AD DCL Scanner" style="max-width:100%; display:block; margin-bottom:10px;">
 </div>
 </details>
 
@@ -128,7 +128,7 @@
 <details>
 <summary><b>📂 Нажмите, чтобы посмотреть скриншоты BloodHound</b></summary>
 <div style="margin-top: 10px;">
-       <img src="bloodhound-report.png" alt="Отчет BloodHound" style="max-width:100%; display:block; margin-bottom:10px;">
+       <img src="Bloodotchet.png" alt="Отчет BloodHound" style="max-width:100%; display:block; margin-bottom:10px;">
 </div>
 </details>
 
