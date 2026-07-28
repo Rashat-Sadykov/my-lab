@@ -123,7 +123,7 @@
 </details>
 
 ## 3. Построение векторов атак (BloodHound)
-*Описание:* Сбор данных из Active Directory, анализ связей, построение графов и выгрузка отчетов по опасным векторам атак в BloodHound.
+*Описание:* Сбор данных из Active Directory, построение графов и выгрузка отчетов по опасным векторам атак в BloodHound.
 <details>
 <summary><b>📂 Нажмите, чтобы посмотреть скриншоты BloodHound</b></summary>
 <div style="margin-top: 10px;">
