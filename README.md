@@ -83,7 +83,7 @@
   </div>
 </details>
 
-#### 4. Настройка Active Directory
+## 4. Настройка Active Directory
 *Описание:* Создание пользователей и групп, добавление рабочих станций в домен, а также разграничение прав доступа в сетевой инфраструктуре.
 
 <details>
@@ -99,20 +99,19 @@
 </details>
 
 
-#### 5. Аудит и сканирование инфраструктуры Active Directory
+## 5. Аудит и сканирование инфраструктуры Active Directory
 
-##### 1. Диагностика контроллеров домена (DCDiag)
 *Описание:* Проверка работоспособности контроллеров домена, репликации и конфигурации служб с помощью утилиты DCDiag, а также формирование отчетов.
 <details>
 <summary><b>📂 Нажмите, чтобы посмотреть скриншоты DCDiag</b></summary>
 <div style="margin-top: 10px;">
-    <img src="dcdiag.png" alt="Сканирование DCDiag" style="max-width:100%; display:block; margin-bottom:10px;">
-    <img src="dcdiag1.png" alt="Сканирование DCDiag" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="DCdiag.png" alt="Сканирование DCDiag" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="DCdiag1.png" alt="Сканирование DCDiag" style="max-width:100%; display:block; margin-bottom:10px;">
     <img src="DCdiagotchet.png" alt="Отчет DCDiag" style="max-width:100%; display:block; margin-bottom:10px;">
 </div>
 </details>
 
-##### 2. Анализ конфигурации безопасности (AD DCL Scanner)
+## 2. Анализ конфигурации безопасности (AD DCL Scanner)
 *Описание:* Сканирование настроек безопасности домена, выявление уязвимостей в конфигурации и генерация отчетов через AD DCL Scanner.
 <details>
 <summary><b>📂 Нажмите, чтобы посмотреть скриншоты AD DCL Scanner</b></summary>
@@ -123,7 +122,7 @@
 </div>
 </details>
 
-##### 3. Построение векторов атак (BloodHound)
+## 3. Построение векторов атак (BloodHound)
 *Описание:* Сбор данных из Active Directory, анализ связей, построение графов и выгрузка отчетов по опасным векторам атак в BloodHound.
 <details>
 <summary><b>📂 Нажмите, чтобы посмотреть скриншоты BloodHound</b></summary>
