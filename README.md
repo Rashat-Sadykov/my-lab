@@ -83,7 +83,23 @@
   </div>
 </details>
 
-#### Кейс Д: Аудит и сканирование инфраструктуры Active Directory
+#### 4. Настройка Active Directory
+*Описание:* Создание пользователей и групп, добавление рабочих станций в домен, а также разграничение прав доступа в сетевой инфраструктуре.
+
+<details>
+<summary><b>📂 Нажмите, чтобы посмотреть скриншоты настройки</b></summary>
+<div style="margin-top: 10px;">
+    <img src="sozdpolz.png" alt="Шаг 1: Создание пользователя" style="max-width:100%; display:block; margin-bottom:10px;">
+  <img src="sozdpolz2.png" alt="Шаг 1: Создание пользователя" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="sozdgrup.png" alt="Шаг 2: Создание групп" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="dobavdomen.png" alt="Шаг 3: Добавление в домен" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="prava.png" alt="Шаг 4: Разграничение прав" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="prava2.png" alt="Шаг 4: Разграничение прав" style="max-width:100%; display:block; margin-bottom:10px;">
+</div>
+</details>
+
+
+#### 5. Аудит и сканирование инфраструктуры Active Directory
 
 ##### 1. Диагностика контроллеров домена (DCDiag)
 *Описание:* Проверка работоспособности контроллеров домена, репликации и конфигурации служб с помощью утилиты DCDiag, а также формирование отчетов.
