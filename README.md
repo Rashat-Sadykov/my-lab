@@ -83,29 +83,37 @@
   </div>
 </details>
 
-#### 4. Настройка Active Directory
-*Описание:* Создание пользователей и групп, добавление рабочих станций в домен, а также разграничение прав доступа в сетевой инфраструктуре.
+#### Кейс Д: Аудит и сканирование инфраструктуры Active Directory
 
+##### 1. Диагностика контроллеров домена (DCDiag)
+*Описание:* Проверка работоспособности контроллеров домена, репликации и конфигурации служб с помощью утилиты DCDiag, а также формирование отчетов.
 <details>
-<summary><b>📂 Нажмите, чтобы посмотреть скриншоты настройки</b></summary>
+<summary><b>📂 Нажмите, чтобы посмотреть скриншоты DCDiag</b></summary>
 <div style="margin-top: 10px;">
-    <img src="ad-create-users.png" alt="Шаг 1: Создание пользователей" style="max-width:100%; display:block; margin-bottom:10px;">
-    <img src="ad-create-groups.png" alt="Шаг 2: Создание групп" style="max-width:100%; display:block; margin-bottom:10px;">
-    <img src="ad-domain-join.png" alt="Шаг 3: Добавление в домен" style="max-width:100%; display:block; margin-bottom:10px;">
-    <img src="ad-permissions.png" alt="Шаг 4: Разграничение прав" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="dcdiag-scan.png" alt="Сканирование DCDiag" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="dcdiag-scan.png" alt="Сканирование DCDiag" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="dcdiag-report.png" alt="Отчет DCDiag" style="max-width:100%; display:block; margin-bottom:10px;">
 </div>
 </details>
 
-#### 5. Аудит и сканирование инфраструктуры Active Directory
-*Описание:* Проверка контроллеров домена с помощью DCDiag, анализ безопасности через AD DCL Scanner, сбор данных и построение векторов атак в BloodHound, а также выгрузка финальных отчетов.
-
+##### 2. Анализ конфигурации безопасности (AD DCL Scanner)
+*Описание:* Сканирование настроек безопасности домена, выявление уязвимостей в конфигурации и генерация отчетов через AD DCL Scanner.
 <details>
-<summary><b>📂 Нажмите, чтобы посмотреть скриншоты аудита</b></summary>
+<summary><b>📂 Нажмите, чтобы посмотреть скриншоты AD DCL Scanner</b></summary>
 <div style="margin-top: 10px;">
-    <img src="ad-audit-dcdiag.png" alt="Шаг 1: Сканирование с помощью DCDiag" style="max-width:100%; display:block; margin-bottom:10px;">
-    <img src="ad-audit-dclscanner.png" alt="Шаг 2: Сканирование с помощью AD DCL Scanner" style="max-width:100%; display:block; margin-bottom:10px;">
-    <img src="ad-audit-bloodhound.png" alt="Шаг 3: Сбор информации утилитой BloodHound" style="max-width:100%; display:block; margin-bottom:10px;">
-    <img src="ad-audit-reports.png" alt="Шаг 4: Отчеты" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="dclscanner-scan.png" alt="Сканирование AD DCL Scanner" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="dclscanner-report.png" alt="Отчет AD DCL Scanner" style="max-width:100%; display:block; margin-bottom:10px;">
+    <img src="dclscanner-report.png" alt="Отчет AD DCL Scanner" style="max-width:100%; display:block; margin-bottom:10px;">
 </div>
 </details>
+
+##### 3. Построение векторов атак (BloodHound)
+*Описание:* Сбор данных из Active Directory, анализ связей, построение графов и выгрузка отчетов по опасным векторам атак в BloodHound.
+<details>
+<summary><b>📂 Нажмите, чтобы посмотреть скриншоты BloodHound</b></summary>
+<div style="margin-top: 10px;">
+       <img src="bloodhound-report.png" alt="Отчет BloodHound" style="max-width:100%; display:block; margin-bottom:10px;">
+</div>
+</details>
+
 
